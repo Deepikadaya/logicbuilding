@@ -287,15 +287,15 @@ begin
 			    result= n1+n2
 				display 'result'
                 break
-            case 1:
+            case 2:
 			    result= n1-n2
 				display 'result'				
                 break
-            case 1:
+            case 3:
 			    result= n1*n2
 				display 'result'				
                 break
-            case 1:
+            case 4:
 			    result= n1/n2
 				display 'result'				
                 break
