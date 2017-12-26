@@ -1,0 +1,337 @@
+
+Atm algorithm
+
+step 1: start
+step 2: go to any local atm
+step 3: swipe the card
+step 4: press the language button
+step 5: enter atm pin
+step 6: press the account type
+step 7: press the cash withdraw button
+step 8: enter the amount you want tp withdraw
+step 9: collect the amount from atm machine
+step 10: collect the atm card
+step 11: end
+
+sum and product algorithm
+
+step 1: start
+step 2: declare num1, num2, sum, product
+step 3: accept values for num1, num2
+step 4: add num1 and num2 and store it in sum
+step 5: multiply num1 and num2 and store it in product
+step 6: print sun and product
+step 7: end
+
+increment algorithm
+
+step 1: start
+step 2: Declare num
+step 3: accept the value for number
+step 4: increment number by adding 1  
+step 5: print number
+step 6: end
+
+divisible of 5 algorithm
+
+Start
+declare number,result
+get the value of number from user
+check if the number is divisible by 5
+if the result is equal to zero print it is even
+else print it is odd
+End
+
+multiple of 9 algorithm
+
+Start
+declare result
+multiply 1*9 and print the result
+multiply 2*9 and print the result
+multiply 3*9 and print the result
+multiply 4*9 and print the result
+multiply 5*9 and print the result
+multiply 6*9 and print the result
+multiply 7*9 and print the result
+multiply 9*9 and print the result
+multiply 10*9 and print the result
+end
+
+even or odd algorithm
+
+Start
+declare number
+get the value of number from user
+check if the number is divisible by 2
+if the result is equal to zero print the given number is even
+else print the given number is odd
+End
+
+subtract algorithm
+
+start
+declare a,b,c
+get the value of a
+get the value of b which should be less than a
+subtract a and b and store it in c
+print c
+end
+
+simple interest algorithm
+
+step 1: Start
+step 2: Declare p, n, r, result.
+step 3: Accept the value of p, n, r.
+step 4: multiple p*n*r and divide by 100 and store the answer in result.
+step 5: print the result.
+step 6: End
+
+cube algorithm
+
+Start
+declare cube,result
+get the value of cube from user
+multiply cube*cube*cube and store it in result
+print the result
+End
+
+rectangle algorithm
+
+step 1: start
+step 2: declare length, breadth, area, perimeter
+step 3: accept the value for length and breadth
+step 4: multiply length and breadth and store it in area
+step 5: add length and breadth and multiply with 2 and store it in perimeter
+step 6: print area and perimeter
+step 7: end
+
+grade algorithm
+
+step 1: start
+step 2: declare choice
+step 3: accept character for choice
+step 4: print A for excellent, b for very good and c for good
+step 5: if choice is equal to A print Excellent
+step 6: else if choice is eqaul to B print Very good 
+step 7: else if choice is equal to c print good
+step 8: else print invalid input
+step 9: end
+
+natural number algorithm
+
+step 1: start
+step 2: print 1
+step 3: print 2
+step 4: print 3
+step 5: print 4
+step 6: print 5
+step 7: print 6
+step 8: print 7
+step 9: print 8
+step 10: print 9
+step 11: print 10
+step 12: end
+
+natural number pseudocode
+
+begin
+    numeric i,n1,number=10
+	for(i=1;i<=number;i++)
+	begin 
+	    display i
+	end
+end
+
+12 table algorithm
+
+step 1: start
+step 2: multiply 1*12 and print the result
+step 3: multiply 2*12 and print the result
+step 4: multiply 3*12 and print the result
+step 5: multiply 4*12 and print the result
+step 6: multiply 5*12 and print the result
+step 7: multiply 6*12 and print the result
+step 8: multiply 7*12 and print the result
+step 9: multiply 8*12 and print the result
+step 10: multiply 9*12 and print the result
+step 11: multiply 10*12 and print the result
+step 12: end
+
+12 table pseudocode
+
+begin
+    numeric num=12, i, result
+	for(i=1;i<=10;i++)
+	begin
+	    result= i*12
+		display result
+	end
+end
+	 
+factorial algorithm
+	 
+start
+declare and initialize number=3
+declare result
+multiply 3*2*1 and store it in result
+print result
+end
+
+factorial pseudocode
+
+begin
+    numeric fact=0, i
+	for(i=0;i<5;i++)
+	begin
+	    fact= fact*i
+	end
+	display fact
+end
+
+positive negative number pseudocode
+
+begin
+    numeric n
+	display 'accept the value for n'
+	accept n
+	
+	if(n>0)
+	begin
+	    display 'the number is positive'
+	end
+	
+	else if(n<0)
+	    display 'the number is negative'
+	end
+	
+	else
+	    display 'the number is zero'
+	end
+end
+
+factorial algorithm
+
+begin
+    numeric n1, n2, n3, i
+	n1=0, n2=1
+	display n1
+	display n2
+	for(i=0;i<5i++)
+	begin
+	    n3=n1+n2
+		display n3
+		n1=n2
+		n2=n3
+	end
+end
+
+sum product pseudocode
+
+begin 
+
+    numeric num1, num2, sum, product
+	display 'enter the value of num1'
+	accept num1
+	display 'enter the value of num2'
+	accept num2
+	sum= num1+num2
+	product= num1*num2
+	display sum
+	display product
+end
+
+temp pseudocode
+
+begin 
+    numeric celsius
+	display 'enter the value for celsius'
+    accept celsius
+    compute result= (9/5)*celsius+32	
+	display result
+end
+
+equal pseudocode
+
+begin
+    numeric n1, n2
+	display 'enter the value for n1'
+	accept n1
+	display 'enter the value for n2'
+	accept n2
+	if(n1==n2)
+	    begin
+	        display 'they are equal'
+	    end
+	
+	else
+	    begin
+		    display 'they are not equal'
+		end
+end
+
+operator pseudocode
+
+begin
+    numeric n1, n2, result, choice
+	display 'the value of n1'
+	accept n1
+	display 'the value of n2'
+	accept n2
+	display 'enter the choice'
+	accept choice
+    display '1 for +, 2 for -, 3 for *,4 for /'
+	
+	switch(choice)
+	    begin
+		    case 1:
+			    result= n1+n2
+				display 'result'
+                break
+            case 1:
+			    result= n1-n2
+				display 'result'				
+                break
+            case 1:
+			    result= n1*n2
+				display 'result'				
+                break
+            case 1:
+			    result= n1/n2
+				display 'result'				
+                break
+        end
+end
+
+vowel pseudocode
+
+begin
+    character choice
+	display 'Enter the character to be checked'
+	accept choice
+    switch(choice)
+	    begin
+		    case A: display 'the entered character is vowel'
+			break
+		    case a: display 'the entered character is vowel'
+			break
+			case E: display 'the entered character is vowel'
+			break
+			case e: display 'the entered character is vowel'
+			break
+			case I: display 'the entered character is vowel'
+			break
+			case i: display 'the entered character is vowel'
+			break
+			case O: display 'the entered character is vowel'
+			break
+			case o: display 'the entered character is vowel'
+			break
+			case U: display 'the entered character is vowel'
+			break
+			case U: display 'the entered character is vowel'
+			break
+			
+			default: display 'the entered character is not a vowel'
+		end
+end
+
